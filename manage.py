@@ -9,4 +9,4 @@ if __name__ == "__main__":
 
     execute_from_command_line(sys.argv)
 
-heroku config:set DISABLE_COLLECTSTATIC=1
+DISABLE_COLLECTSTATIC=1
