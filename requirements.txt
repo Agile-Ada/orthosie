@@ -1,3 +1,4 @@
 Django>=1.8
 djangorestframework
 python-memcached
+setuptools==0.7.3
